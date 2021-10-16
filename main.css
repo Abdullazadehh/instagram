@@ -1,0 +1,112 @@
+
+*{
+    background-color: white;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color: black;
+    border-radius: 2px;
+    font-family: sans-serif;
+}
+#home{
+    display: flex;
+    /* Defauldu rowdu */
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.all{
+    width: 350px;
+}
+.qeydiyyat{
+    border: #DBDBDB 1px solid;
+}
+.instaname{
+    font-family: "Style Script", sans-serif;
+    font-size: 3rem;
+    font-weight: bold;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+input{
+    font-size: 0.8rem;
+    width: 269px;
+    padding: 0.5rem;
+    border: 0px;
+}
+.ad{
+    margin-bottom: 0.4rem;
+    border: 1px solid #DBDBDB;
+    margin-left: 2.4rem;
+    margin-right: 2.4rem;
+    
+}
+.sifre{
+    border: 1px solid #DBDBDB;
+    margin-left: 2.4rem;
+    margin-right: 2.4rem;
+
+}
+.giris{
+    margin-top: 0.8rem;
+    background-color: #0095f7;
+    color: white;
+    padding: 0.5rem;
+    border: 0px;
+    width:269px;
+    border-radius: 4px;
+}
+.yada{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    color: grey;
+}
+.faceall{
+    display: flex;
+    justify-content: center;
+    color: #4267b2;
+    font-size: 0.8rem;
+    margin-top: 0.5rem;
+}
+.fbilegiris{
+    margin-left: 0.4rem;
+    font-weight: bold;
+
+}
+.sifreniunut{
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+    font-size: 0.7rem;
+}
+.qeydiyyat2{
+    border:#DBDBDB 1px solid;
+    margin-top: 0.6rem;
+}
+.hesabyokkaydol{
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-size: 0.8rem;
+}
+.kaydol{
+    color:#4267b2;
+    margin-left: 0.3rem;
+    font-weight: bold;
+}
+.uygulama{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+
+.app{
+    width: 150px;
+}
+.play{
+    width: 150px;
+}
